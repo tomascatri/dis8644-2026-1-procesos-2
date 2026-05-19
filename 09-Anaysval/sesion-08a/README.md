@@ -2,7 +2,7 @@
 
 Martes 28 de abril
 
-### KiCad y diseño de PCB
+###  ⟡ KiCad y diseño de PCB
 
 ### Conceptos generales
 
@@ -42,7 +42,9 @@ KiCad trabaja con distintos archivos conectados entre sí mediante un archivo pr
 
 ---
 
-### Paso 1 — Esquemático
+### Paso 1 
+
+### ⟡ Esquemático
 
 Dentro del  `.kicad_sch` se colocan componentes y se conectan usando cables.
 
@@ -79,7 +81,9 @@ Por ejemplo:
   
 ---
 
-### Paso 2 — Asignar huellas
+### Paso 2 
+
+### ⟡ Asignar huellas
 
 #### Diferencia principal
 
@@ -120,7 +124,9 @@ Generalmente esa información aparece en el datasheet o en la página donde vend
 
 ---
 
-### Paso 3 — PCB Editor
+### Paso 3 
+
+### ⟡ PCB Editor
 
 Al abrir el PCB Editor aparecen todos los componentes listos para distribuir.
 
