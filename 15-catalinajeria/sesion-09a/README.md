@@ -1,6 +1,31 @@
 # Clase 09a — Hacia una filosofía de la fotografía
 
-## Capítulo 1: La imagen
+(Clases online)
+
+🗂️Resumen del contenido:
+
+Seguimos trabajando con KiCad, ahora estaremos viendo como pasar del esquematico al editor de placa.
+
+°Definir la lista de materiales (BOM).
+
+°Asignar huellas a los componentes.
+
+°Organizar el diseño físico de la placa.
+
+°Ruteo de pistas y verificación de reglas de diseño.
+
+RECORDAR QUE➡️ Se debe tener en cada componente las huellas listas en el esquematico para que se vean los componentes en la placa. Luego iremos al editor de placa.
+![Clase online](./imagenes/clase09a_imagen02.jpeg)
+
+Hasta aqui llegue porque me mareo de tanta info🩹
+
+Pero si deo el resumen del texto!⚖️
+
+
+![Libro](./imagenes/clase09a_imagen01.png)
+
+## Hacia una filosofía de la fotografía
+### Capítulo 1: La imagen
 
 En el primer capítulo, Vilém Flusser explica que las imágenes son superficies significativas. Su función principal es representar algo exterior y hacerlo imaginable para el ser humano. Para lograrlo, la imagen reduce la realidad, que tiene dimensiones de espacio y tiempo, a una superficie plana de dos dimensiones. A esta capacidad de producir y descifrar imágenes, Flusser la llama imaginación.
 
