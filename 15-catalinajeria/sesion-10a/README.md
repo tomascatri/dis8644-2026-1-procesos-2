@@ -5,18 +5,6 @@
 
 ---
 
-## Resumen general de la clase
-
-En esta clase seguimos viendo algunas ideas de **Vilém Flusser**, sobre todo las que tienen que ver con las imágenes técnicas, los aparatos y la forma en que estos cambian nuestra manera de mirar el mundo.
-
-Una de las ideas que más se repitió fue que no vemos las cosas de forma totalmente directa. Muchas veces vemos el mundo a través de imágenes, textos, cámaras, escáneres, pantallas o aparatos que ordenan la información por nosotras. Entonces, lo que creemos que es “la realidad” también está mediado por las herramientas que usamos para observarla.
-
-También tuvimos una charla sobre el proyecto **For Want of (Not) Measuring**, que trabaja con la medición, los sistemas inestables, el escaneo 3D y la forma en que los aparatos pueden registrar el mundo. Me pareció interesante porque la charla no hablaba solo de medir cosas, sino de cuestionar qué tan exactos son realmente esos sistemas que usamos para entender la realidad.
-
-Al final de la clase también hicimos un repaso más técnico sobre control de voltaje, frecuencia y algunos chips que podrían servir para nuestros proyectos sonoros, como el **4046**, **4040**, **4093**, **555**, multiplexores y algunos amplificadores operacionales.
-
----
-
 ## Repaso de Flusser
 
 Durante la primera parte de la clase se retomaron ideas del libro **Hacia una filosofía de la fotografía**. Los conceptos principales fueron:
@@ -70,6 +58,9 @@ La charla trató sobre un proyecto que comenzó en **2022** y que nació desde e
 El tema principal era la **medición**. El proyecto se pregunta qué pasa cuando usamos sistemas de medición para entender la vida y el mundo, pero también qué pasa cuando esos sistemas no son tan estables como parecen.
 
 Me llamó la atención que no se trataba solo de medir por medir, sino de pensar qué significa medir. A veces confiamos mucho en los sistemas exactos, como las grillas, los escáneres o los números, pero cuando se miran con más atención aparecen errores, diferencias y cosas que no calzan tan perfectamente.
+
+![Charla 1](./imagenes/charla1.jpeg)
+![Charla 2](./imagenes/charla2.jpeg)
 
 ---
 
