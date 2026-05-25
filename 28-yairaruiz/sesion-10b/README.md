@@ -52,11 +52,12 @@ Primero empezamos a investigar que chips podíamos conseguir y que onda se gener
 
 Preguntando al profe Misa qué recomendación nos daba de chip para generar ondas de sierra y nos recomendó este esquemático para la primera propuesta: 
 
-imagen 
+![ejemplo](./imagenes/ejemplo.png/)
 
 (aca solo se considera la parte del oscilador, para nos confundirnos el profe nos ayudó a entender el esquemático específicamente del oscilador) 
 
-imagen 
+
+![propuesta1](./imagenes/propuesta1.png/)
 
 
 Para este oscilador necesitamos estos componentes que no tenemos: 
@@ -69,7 +70,8 @@ Para este oscilador necesitamos estos componentes que no tenemos:
 
 **Tipo de onda que se genera:**
 
-imagen 
+
+![onda](./imagenes/onda.png/)
 
 
 Elegimos el 40106 y el LM324 porque permiten crear un oscilador simple y experimental. El circuito genera una onda cuadrada, pero produce variaciones attack y decay, acercándose a una onda sierra o triangular.  
