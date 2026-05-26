@@ -73,11 +73,11 @@ este proyecto lo desarrollamos en grupos, haciéndose cargo de distintos módulo
 
 ### grupo-03: osciladores 1
 
-vanessagarciaM
-antoloch
-ccarlabelenn
-arielorozco024
-Narelyriquelme
+- vanessagarciaM
+- antoloch
+- ccarlabelenn
+- arielorozco024
+- Narelyriquelme
 
 ## grupo-04: osciladores 2
 
@@ -90,16 +90,16 @@ Narelyriquelme
 
 ### grupo-05: filtros
 
-antoniaamc
-Catabalboa
-sebastianguevaralarotta
-CatalinaJeria
-Luisaatoro9
+- antoniaamc
+- Catabalboa
+- sebastianguevaralarotta
+- CatalinaJeria
+- Luisaatoro9
 
 ### grupo-06: percusiones
 
-terroiblea
-martinaechavarria-stack
-Nicolas-Miranda1312
-paredesvania
-Coff4
+- terroiblea
+- martinaechavarria-stack
+- Nicolas-Miranda1312
+- paredesvania
+- Coff4
