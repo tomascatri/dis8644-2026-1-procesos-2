@@ -1,127 +1,96 @@
 # sesion-10a
 
-Clase online 
+Comentarios sobre los capitulos 1, 2 y 3 de Hacia una filosofía de la fotografia (1993), de Vilém Flusser. 
 
-Fome, fome. La construcción frente a mi departamento no me dejaba escuchar bien :(
-___
-Eduardo Bonvallet 
-
-“Hay que creerse el cuento”. 
-___
-## Para abrir documento 
-
-+ Nuevo proyecto 
-+ Pide dónde guardar 
-+ Abrir el Sch 
-+ Esquemático
-
-## Repaso KiCad 
-
-### Paso 1: Dibujar esquemáticos 
-
-+ A: agregar símbolo+ 
-+ R: rotar 
-+ Si aprieto A → VCC / GND 
-+ G: para mover sin arrastrar todo (para acomodar) 
-+ V: editar campo de valor 
-+ ESC: para volver 
-+ M: mover 
-+ CMD + S / CTRL + S = guardar 
-+ Indicar si un componente no tiene conexión (N)
-
-Ojo: si no hay punto, no hay conexión. 
-
-### Paso 2: Asociar huellas a símbolos 
-
-+ ASIGNAR huellas a símbolos (la huella es el espacio que ocupa en la base del componente). 
-+ Click y E: propiedades del componente (editar) 
-+ F: revisar huellas asignadas 
-+ CTRL + D: duplicado exacto 
-+ R: rotar 
-+ X: reflejar en el eje X 
-+ Y: reflejar en el eje Y 
-
-### Paso 3: Abrir PCB New 
-
-+ Pasar las asignaciones (Actualizar placa es el botón verde). 
-+ Alt + 3: visor 3D (para ir viendo cómo quedan las cosas).
-
-### Paso 4: Definir contornos
-
-+ Para dibujar contornos debe estar seleccionada la capa Edge Cuts (solo para el contorno de la placa). 
-+ La placa debe tener un lugar físico y eso se hace con el contorno. 
-+ Arcos en las esquinas de la placa (5 mm) con herramienta rectángulo. 
-+ E: redondear el rectángulo. 
-
-### Paso 5: Repartir componentes físicamente
-
-+ Pistas (importante). 
-+ Es como la protoboard y los cables. 
-+ Pinceles. 
-+ Los cables. 
-
-Dato: doble pantalla. A un lado el esquemático y al otro la placa. Si selecciono algo en la placa, me indica en el esquemático cuál es. 
-
-+ Marcar centros de la placa y agregar márgenes. 
-
-En CTRL + M, si mantengo presionado CTRL, no sigue la grilla. 
-
-### Paso 6: Rutear componentes 
-
-+ Capa de ruteo (que las cosas se conecten entre ellas). 
-+ X: enrutar pista única 
-+ No existe el “saltito”, pero se puede ir cambiando de capa. 
-+ V: pasar de capa inferior a superior y viceversa. 
-
-Vía = una dona 
-+ Permiten conectar ambos lados de la placa con la misma ruta.
-
-### Paso 7: Ornamentar y exportar fabricación
-
-+ Nombre de red: GND 
-+ Encerrar la placa 
-+ Comprobar reglas de diseño para errores 
-
-+ MountingHole (M3) 
-+ Agujeros (Se les deben agregar huellas).
-
-Dato: no son dibujos; son vectores, píxeles, gráficos (en DXF o SVG). 
-
-+ Archivo → Importar → Gráficos  
-+ Capa de serigrafía
-
-![clase](./imagenes/clase.jpeg)
-![clase](./imagenes/clasee.jpeg)
-
-Bloque de terminales o conector de tornillo, de tipo modular, con soporte de hasta 16 A con 300 Volts AC. Posee un tamaño mediano, además de una separación entre pines de 5 mm (0.2 pulgadas).Es compatible con protoboard.
-![terminal](./imagenes/terminal.jpeg)
+![apuntes](./imagenes/apunte.jpeg)
+"No confundamos la imagen con el mundo", me faltó la a en la croquera, ups.
 
 ___
-## Encargo 09a
 
-Me costó agarrarle el ritmo a los controles y al proceso de agregar símbolos, modificar sus valores y manejar las líneas. También me confundí bastante al momento de asignar las huellas, porque hay muchísimas opciones y todavía no sé bien cuál utilizar en cada caso, siento que debo ir aprendiendo esos nombres y formatos.
+## Charla “For Want of (Not) Measuring”
 
-Algo que olvidaba constantemente era apretar la tecla B para cerrar el plano de GND. También tuve dificultades con la gráfica, porque no entendí muy bien por qué se veía tan poco en la vista 3D.
+"Para querer no medir"
 
-Aun así, en general sentí que anduve bastante bien. El primer circuito lo hice apoyándome en la grabación de la clase, pero el segundo pude hacerlo por mi cuenta, así que siento que avancé bastante.
+### Patrick 
 
-### Clock generator
++ El proyecto comenzó en 2022, buscando encontrar la intersección entre el trabajo de Patrick Adam y Jim Hobbs.
++ El concepto de la exposición trata sobre cómo usamos la medición y cómo, a veces, en la vida decidimos no medir.
++ Patrick tiene una galería en Inglaterra llamada “Proyecto 78”.
++ Recibieron una invitación en Londres, de la galería Proyecto King, para presentar su exposición.
++ Patrick está interesado en cómo usamos los sistemas de medición en el mundo.
++ También reflexiona sobre cómo aceptamos estos sistemas sin pensar realmente qué significan.
++ Dato: hace 300 años intentaron calcular el peso del mundo escalando una montaña en Escocia con péndulos y telescopios; lograron calcular aproximadamente un 20% del peso del mundo.
++ Patrick escala montañas utilizando elementos de medición, siempre la misma montaña.
 
-![clock](./imagenes/clock.png)
-![clock](./imagenes/clock1.png)
-![clock](./imagenes/clock2.png)
-![clock3](./imagenes/clock3.png)
+### Sistema inestable
 
-### MIX
++ Le interesan esos sistemas que parecen estables, pero que, al observarlos detenidamente, resultan ser inestables.
++ El padre de Jim trabajaba en General Electric y estaba a cargo de probar ampolletas; en el suelo había una grilla con ellas.
++ De ahí surge la idea de la grilla o cuadrícula de 16 mm.
++ La cuadrícula se tomó como una referencia simbólica que permite que ingresen muchas cosas, pero al mismo tiempo no es un espacio seguro; existe inestabilidad en esa idea estructural.
++ El proyecto sobre la medición establece un diálogo con otros artistas en cada lugar donde se presenta.
++ Han estado en distintos lugares y ya han realizado siete exposiciones. En algunas incluyen performances, dependiendo de la relación y de los intereses de los curadores con quienes trabajan.
++ Cada exposición es una nueva versión del proyecto: establecen una relación con el contexto donde se instalan y con los artistas, además de generar nuevas publicaciones.
++ Jim mandó a hacer una especie de vinilos con una mica que produce sonido, como una canción.
++ Para cada exposición crean nuevas publicaciones y ediciones limitadas. 
 
-![mix](./imagenes/mix.png)
-![mix](./imagenes/mix1.png)
-![mix](./imagenes/mix2.png)
-![mix](./imagenes/mix3.png)
+### Simon 
 
-### Capítulo 1 del libro Hacia una filosofía de la fotografía, de Vilém Flusser
++ Presenta un escáner que tiene un espejo en su interior que gira constantemente en horizontal y vertical. Tiene un láser que choca con el mundo y devuelve la señal al escáner; se utiliza para medir el mundo.
++ Mostraron una imagen de un edificio escaneado por el dispositivo. Se pueden crear modelos digitales, como el del edificio, que tiene 8 millones de puntos.
++ Cada punto corresponde a un evento del láser con el mundo, formando una “nube de puntos”.
++ La nube no tiene límites: la misma máquina busca puntos constantemente. No le interesa tanto el acto de medir, sino el concepto de nube.
++ Ejemplo del árbol: es visto como un conjunto de fuerzas y como una red, no como un sólido. Es flexible y se va adaptando.
++ Hablaron de un árbol de 355 años que tiene frecuencias y ondas.
++ Para nosotros el árbol es muy lento; para el árbol, nosotros somos muy rápidos, y para la montaña el árbol también es muy rápido.
++ Los modelos digitales pueden intervenirse con sonido.
++ **Polycam - app.**
++ No es que el láser atraviese el muro; da una sensación de interior, pero no lo muestra realmente: son los puntos de la nube.
 
-Encuentro bastante interesante el texto, aunque nunca he sido muy cercana a la filosofía, ya que suelo perderme entre sus divagaciones y su forma de narrar con palabras poco comunes. Aun así, me parece muy interesante el análisis que se hace sobre las fotografías y las imágenes, porque algo que normalmente damos por sentado puede tener un trasfondo tan profundo. También me llamó la atención la interpretación sobre lo que significa ver una imagen, qué es lo que observamos, en qué nos enfocamos y cómo se le otorga un significado. La relación que el autor menciona entre textos e imágenes también me pareció interesante, especialmente la idea de cómo una puede llevar a la otra y viceversa, sin embargo, también me resulta llamativo que existan situaciones en las que esta relación no aplica, como ocurre con las ecuaciones de la teoría de la relatividad, que son textos imposibles de imaginar visualmente.
+![charla](./imagenes/charla.jpeg)
+___
+
+## Apuntes clase 
+
+**Y como dijo el gran Misa: "Si no puedes contra ellos, confúndelos" (2026).**
+
+VCC: es el tope; nunca se puede crear nada por sobre esto.
+
+Se puede cambiar la frecuencia por voltaje con un aparato que lo genere. 
++ Menor voltaje → la frecuencia es más lenta.
++ Mayor voltaje → la frecuencia es más rápida.
+
+Estamos haciendo cajas negras que se siguen una a la otra. 
+
+Divisor de voltaje: dos resistencias complementarias.
++ Ra + Rb = 100k
++ Vi: modula un voltaje para convertirlo en otro.
+
+VCO: oscilador controlado por voltaje. 
+
+Revisar Hackaday para nuestro proyecto. 
+
+![apunte](./imagenes/apunte2.jpeg)
+![apunte](./imagenes/apunte3.jpeg)
+![pizarra](./imagenes/pizarra.jpeg)
+![pizarra](./imagenes/pizarra2.jpeg)
+
+___
+Mis comentarios y reflexiones sobre el libro *Hacia una filosofía de la fotografía*, de Vilém Flusser.
+
+Capítulo 4: El acto de fotografiar
+
+Relación con el acto de cazar. En el acto fotográfico, la cámara hace lo que el fotógrafo quiere que haga, y el fotógrafo hace aquello para lo que la cámara está programada. El fotógrafo es libre de capturar cualquier cosa, pero el objeto debe estar en armonía con el programa de la cámara. Va más allá de solo apretar un botón, ya que el fotógrafo debe elegir qué mostrar y qué quiere transmitir mediante la fotografía.
+
+Reflexión propia: La intención detrás de la fotografía y cómo esta puede variar según la persona. Si varios tomamos la misma fotografía, en el mismo momento y lugar, igualmente pueden transmitir cosas diferentes.
+
+
+Capítulo 5: La fotografía
+
+Habla sobre cómo las fotografías son omnipresentes y sobre la idea de creer que la fotografía es congruente con el mundo exterior, pero entonces aparece la pregunta: ¿y las fotografías en blanco y negro? También sobre cómo influye la fotografía en la relación entre la realidad y la memoria, ya que no solo registra la realidad, sino que también influye en cómo se ve y se recuerda. El fotógrafo informa mediante la fotografía. Las fotografías son conceptos transformados en imágenes.
+
+Reflexión propia: Relación con los recuerdos y cómo las fotografías son una parte esencial de ellos, ya que gracias a las fotografías se guardan memorias.
+
 
 
 
