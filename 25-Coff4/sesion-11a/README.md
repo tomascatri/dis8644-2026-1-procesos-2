@@ -77,20 +77,10 @@ Nota: La fuente de poder ahora es diferente:
 
 Y MIRA COMO SUENA EL BABY!:
 
-
-
-
-
-
-
-
+[![Ver video](https://img.youtube.com/vi/FxfNUCrtlaU/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxfNUCrtlaU)
 
 
 ## Capitulo semi final y final (8 y 9)
-
-
-
-
 
 
 
