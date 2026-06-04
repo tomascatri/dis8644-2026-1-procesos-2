@@ -4,7 +4,7 @@
 
 Número de grupo: 03
 
-Tema del grupo: OscilaXX
+Tema del grupo: Oscila02
 
 Integrantes:
 
