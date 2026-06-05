@@ -2,11 +2,17 @@
 
 Otro dia de trabajo en clase, terminamos de construir el piezo 01 el lunes antes de la clase y funcionó de manera extraña, por lo que preguntamos en la clase que estaba mal y también tenemos que rearmar el piezo 02 porque al construir en la protoboard pequeña fallo así que ahora lo construiremos en una proto larga para que sea más fácil de observar errores.
 
-[![](https://img.youtube.com/vi/rvhNgaa1HmU/0.jpg)](https://www.youtube.com/watch?v=rvhNgaa1HmU)
+[![funcionando raro](https://img.youtube.com/vi/rvhNgaa1HmU/0.jpg)](https://www.youtube.com/watch?v=rvhNgaa1HmU)
 
-Aparte misaaaaaa nos mostró cambios obligatorios que tenemos que cambiar, por ejemplo algunas huellas y símbolos en Kicad, estos se encuentran en proyecto 02/ estandares.md y también nos ayudó a resolver unas dudas que teníamos del piezo 01 y piezo 02.
+Finalmente luego de los cambios que dijo misaaaaaa el piezo 01 funcionó, pero el piezo 02 nada aun no funcionaba nada de nada, lo cual fue un poco frustrante.
 
-Aca una imagen de lo que nos mostró misaaaaaa y una tabla de las huellas:
+Acá un video del piezo 01 funcionando:
+
+[![funcionando bien](https://img.youtube.com/vi/n_4B0P0rAOc/0.jpg)](https://www.youtube.com/watch?v=n_4B0P0rAOc)
+
+Aparte Misa nos mostró cambios obligatorios que tenemos que cambiar, por ejemplo algunas huellas y símbolos en Kicad, estos se encuentran en proyecto 02/ estandares.md y también nos ayudó a resolver unas dudas que teníamos del piezo 01 y piezo 02.
+
+Acá una imagen de lo que nos mostró misa y una tabla de las huellas:
 
 ![estándares](./imagenes/estandar.png)
 
