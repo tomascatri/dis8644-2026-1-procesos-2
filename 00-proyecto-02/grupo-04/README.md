@@ -2,11 +2,11 @@
 
 ## Grupo
 
-Número de grupo: 04
+Número de grupo: **04**
 
-Tema del grupo: Oscilador 2
+Tema del grupo: **Oscilador 2**
 
-Integrantes:
+*Integrantes:*
 
 - Kristel Andrea Ladrón de Guevara Jara / kristelagj
 - Paula Andrea Fuentes Mena / paulafuentesm
