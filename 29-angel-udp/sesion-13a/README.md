@@ -26,3 +26,8 @@ La semiótica (o semiología) es la disciplina que estudia los signos, los símb
 
 ---
 
+Partitura de gamelan 
+
+Hay muchas obras de jhon cage donde destruia su ego en la composición y faltaba al respeto totalmente al piano
+
+Muestra de como 
