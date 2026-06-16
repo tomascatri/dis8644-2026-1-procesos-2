@@ -161,3 +161,9 @@ Fin.
 
 <img width="794" height="596" alt="partitura interior" src="https://github.com/user-attachments/assets/dd5d708c-18f4-46f0-ac27-ba74cff820c3" />
 
+[portada pdf.pdf](https://github.com/user-attachments/files/28983395/portada.pdf.pdf)
+
+[interior partitura pdf.pdf](https://github.com/user-attachments/files/28983408/interior.partitura.pdf.pdf)
+[portada pdf.pdf](https://github.com/user-attachments/files/28983407/portada.pdf.pdf)
+[interior partitura pdf.pdf](https://github.com/user-attachments/files/28983403/interior.partitura.pdf.pdf)
+
