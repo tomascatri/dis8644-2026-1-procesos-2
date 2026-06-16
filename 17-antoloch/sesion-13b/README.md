@@ -1,5 +1,55 @@
 # sesion-13b
-sesion 13b
+
+# Partituras: Momentos, Ritmos y Notas
+
+Una **partitura** es una representación gráfica que traduce ideas musicales en signos. Gracias a ella podemos conocer la **altura** de los sonidos, su **duración**, la **velocidad de ejecución**, la **intensidad** y otros matices expresivos.
+
+
+
+##  Canto gregoriano
+- Sistema medieval escrito sobre **tetragrama** (4 líneas).  
+- Utiliza **neumas** (notas cuadradas) en lugar de las redondas modernas.  
+- No posee compás ni ritmo fijo: la melodía sigue el **ritmo del texto en latín**.  
+- Impulsado por **Guido d’Arezzo** en el siglo XI para unificar la música de la Iglesia.  
+
+
+
+##  Sinfonías
+- Obra compleja para **orquesta completa**.  
+- Generalmente dividida en **cuatro movimientos**:  
+- Principales exponentes: **Haydn, Mozart y Beethoven**.  
+
+
+
+##  Stockhausen y la música electrónica
+- **Karlheinz Stockhausen** publicó la primera partitura de música electrónica.  
+- Demostró que la electrónica podía ser **notada y editada** como cualquier obra clásica.  
+- **Gesang der Jünglinge**: obra cumbre de la música electroacústica.  
+  - Combina notación vocal (texto y fonética) con **gráficos de frecuencias**.  
+  - Integra por primera vez el **espacio tridimensional** (sonido envolvente) en papel.  
+
+
+
+## John Cage y la indeterminación
+- Crítico de los compositores tradicionales por su exceso de control.  
+- Propuso que **cualquier sonido** podía ser música: tráfico, silencio, naturaleza.  
+- Introdujo el **azar y la libertad absoluta** en la composición.  
+- Sus partituras indeterminadas abren la interpretación al músico, más allá de lo escrito.  
+
+Ayuda para proyecto: yoko ono, stockhausen: gesang der junglinge (aural score), En el documental Variaciones espectrales, https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/ , https://loliel.narod.ru/DIY.pdf, https://manfred-werder-earlyscores.blogspot.com/
+
+# Proyecto 03: Inspiraciones para nuevas partituras
+Explorar cómo elementos naturales pueden convertirse en notación musical:
+
+- **Plantas** → crecimiento como ritmo, hojas como notas.  
+- **Viento** → direcciones e intensidades como dinámicas.  
+- **Agua** → flujos y ondas como frases musicales.  
+
+### Busqueda 
+- *Creek*, de **Hiroshi Yoshimura** → minimalismo ambiental inspirado en la naturaleza.  
+- *Serenade of Secrets*, de **Volodja Brodsky** → atmósfera íntima y misteriosa.  
+- Plantasia 
+
 ## cap 3 evento
 Una pieza que me llamó mucho la atención es la Pieza de nube. Dice que hay que imaginar las nubes cayendo gota a gota y cavar un agujero en el jardín para ponerlas. Es imposible de hacer, pero muy poética: convierte algo intangible en una acción concreta. Me gusta porque me obliga a pensar en cómo la imaginación puede transformar lo que parece inalcanzable.
 
