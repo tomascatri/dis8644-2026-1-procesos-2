@@ -88,7 +88,7 @@ La idea era representar visualmente cómo percibíamos el sonido. Algunas línea
 
 Elegimos las formas curvas y continuas porque se parecen a cómo funciona nuestro circuito en la realidad. Al mover la perilla del potenciómetro, el sonido no cambia de golpe o por saltos, sino que sube y baja como un flujo constante y fluido, lo que nos hizo dibujar esas líneas más suaves. Además, cuando el sonido del oscilador se ponía más intenso, concentrado o medio distorsionado, se nos ocurrió juntar los trazos y armar espirales para atrapar toda esa energía en el dibujo. Por otro lado, las ondas que dejamos más abiertas y tranquilas son para los momentos cuando el circuito tira sonidos más graves.
 
-también , nos inspiramos en algunos referentes de partituras gráficas que vimos anteriormente, pero le dimos vida a nuestra pieza gráfica con la ayuda de nuestra interpretación de los sonidos del sintetizador.
+También, nos inspiramos en algunos referentes de partituras gráficas que vimos anteriormente, pero le dimos vida a nuestra pieza gráfica con la ayuda de nuestra interpretación de los sonidos del sintetizador.
 
 
 ## Partitura resonancia
