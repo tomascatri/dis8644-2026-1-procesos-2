@@ -14,7 +14,7 @@ Integrantes:
 
 ## 1. Lista de materiales (bom):
 
-### Chirigüe mecanizado: Grupo 4
+### Chirigüe mecanizado: Grupo 4 - Oscilador
 
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
@@ -28,7 +28,7 @@ Integrantes:
 | Resistencia 1 kΩ | 6 | $100 CLP | https://www.mechatronicstore.cl/resistencia/ | | LED | 2 | $300 CLP | https://www.mechatronicstore.cl/led-intermitente-5mm/ | 
 
 
-###  Lub-dub: Grupo 6
+###  Lub-dub: Grupo 6 - Percutor
 
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
@@ -47,7 +47,7 @@ Integrantes:
 | Led | 1 | $100 | <https://www.mechatronicstore.cl/led-3mm-5mm/> |
 
 
-###  Nyan Cat: Grupo 2
+###  Nyan Cat: Grupo 2 - Secuenciador 
 
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
