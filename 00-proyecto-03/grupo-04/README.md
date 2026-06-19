@@ -18,7 +18,7 @@ Comencemos c:
 
 ### Chirigüe mecanizado:
 
-| Componente | Cantidad | valor unitario | link/Comprar |
+| Componente | Cantidad | Valor unitario | Link/Comprar |
 |------------|----------|--------------|---------|
 | Chip 40106 | 1 | $1.200 CLP | https://electronicareal.cl/producto/integrado-digital-cd-40106/?srsltid=AfmBOopGygR12K2_-zL_pf-RaOB5PvLmK7oy2TURaqkeA0zU1alOhJD- | 
 | Chip LM324 | 1 | $590 CLP | https://www.mechatronicstore.cl/amplificador-operacional-lm324/ | | Regulador L7805 | 1 | $350 CLP | https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/ | 
@@ -35,7 +35,7 @@ Comencemos c:
 
 ### Comunicaciones espaciales:
 
-| Componente | Cantidad | valor unitario | link/Comprar |
+| Componente | Cantidad | Valor unitario | Link/Comprar |
 |------------|----------|--------------|---------|
 | Chip 40106 | 1 | $1.200 CLP | https://electronicareal.cl/producto/integrado-digital-cd-40106/?srsltid=AfmBOopGygR12K2_-zL_pf-RaOB5PvLmK7oy2TURaqkeA0zU1alOhJD- | }
 | Regulador L7805 | 1 | $350 CLP | https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/ | 
@@ -72,6 +72,16 @@ Comencemos c:
 
 
 ## 3. Propuesta Partituras:
+
+Para introducir la idea, queremos trabajar bajo el concepto de **unión** y cómo podemos abarcarlo desde distintas maneras para reforzar la idea. Por ejemplo:
+
+1. Carcasa: crear una carcasa con acrílico, para que sea transparente y se vean las uniones de esta.
+2. Interacción: a través de las partituas experimentales, queremos predisponer a la persona a estar acompañada o pensar en alguien durante la interpretación.
+3. Interpretación: traer la viola de Kriss para conectarla al piezo, y así unir la música clásica con la electrónica.
+
+Gracias a los referentes que nos entregaron, pudimos profundizar un poco más en este concepto, con Pomelo de Yoko Ono, Anthology of Text Scores de Pauline Oliveros y Ciencia, cyborgs y mujeres de Donna Haraway, recomendado por Emilia. Con los dos primeros nos surgió la idea de hacer instrucciones en la partitura para que el intérprete pudiera abarcar la interacción mas consciente de sus sentidos y pensando en la compañía. El tercer libro, nos permite fundamentar esta idea de las sensaciones de los cuerpos y el propósito de la interpretación.
+
+### Contexto histórico
 
 La música clásica desde su inicio ha intentado imitar e interpretar a la naturaleza; por ejemplo lo podemos ver en las cuatro estaciones de Vivaldi o La tempestad de Robert Smith, entre otras piezas las cuales siempre quieren representar, entregar una sensación y/o espacio. 
 
