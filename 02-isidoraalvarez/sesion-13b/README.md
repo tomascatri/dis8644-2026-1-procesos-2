@@ -96,10 +96,74 @@ de igual manera soldaremos todas las placas para probarlas todas y ver como func
 
 ## **TEXTO YOKO ONO:LIBRO COMPLETO**
 
+![imagen](./imagenes/yoko-ono-01.png)
+
+ - Quize intentar hacer esta Pieza pero sin despedirme de ella el resto de mi vida obviamente, lo hice con el *Poema 20* de Pablo Neruda 
+
+### Poema 20- Sin la sílaba "no"
+
+Puedo escribir los versos más tristes esta — che.
+
+Escribir, por ejemplo: «La — che está estrellada,
+
+y tiritan, azules, los astros, a lo lejos».
+
+--------------------------
+
+El viento de la — che gira en el cielo y canta.
+
+--------------------------
+
+Puedo escribir los versos más tristes esta — che.
+
+Yo la quise, y a veces ella también me quiso.
+
+--------------------------
+
+En las — ches como esta la tuve entre mis brazos.
+
+La besé tantas veces bajo el cielo infinito.
+
+--------------------------
+
+Ella me quiso, a veces yo también la quería.
+
+Cómo — haber amado sus grandes ojos fijos.
+
+--------------------------
+
+Puedo escribir los versos más tristes esta — che.
+
+Pensar que — la tengo. Sentir que la he perdido.
+
+--------------------------
+
+Oír la — che inmensa, más inmensa sin ella.
+
+Y el verso cae al alma como al pasto el rocío.
+
 Sin darme cuenta, he hecho algunas cosas que salen en el libro.
+
+--------------------------
+
+https://www.cervantesvirtual.com/obra-visor/poema-20-0/html/ffc28ba4-9c97-4592-97a8-f338821299f1_2.html#I_0_
+
+-----------------------------------------------------
+
+![imagen](./imagenes/yoko-ono-02.png)
+
+ - Queria ver como se veria esta pieza para tres chimenas, por que no podia imaginarmelo, le pedi a la ia que me lo mostrara y me parecio        interesante por que para lograr esto no solo seria llegar y construir, se usa el *Teorema de Tales* básicamente es jugar con las              matemáticas para engañar al ojo, al calcular sus tamaños reales en relación a dónde te vas a parar, haces que las tres parezcan gemelas en    el espacio, el resto depende de donde se pare uno, si te pones justo enfrente las chimeneas se tapan entre si y parece que hay una sola,      si te corres un poco hacia el lado se rompe esa línea y se verian dos y si se cambia de ángulo por completo, el paisaje se abre y se          pueden ver las tres chimeneas.
+
+![imagen](./imagenes/ejercicio-yoko-ono.png)
+
+----------------------------------------------------
 
 ![imagen](./imagenes/yoko-ono.png)
 
-por ejemplo, al leer esta instrucción de Yoko Ono, me di cuenta de que sin querer ya formaba parte de su obra, muchas veces a las 8 de la mañana y antes de irme a la universidad, hago exactamente lo que el libro propone, quedarme pegada mirando cómo hierve el agua, mientras reflexiono sobre la vida. 
+ - Al leer esta instrucción de Yoko Ono, me di cuenta de que sin querer ya formaba parte de su obra, muchas veces a las 8 de la mañana y         antes de irme a la universidad, hago exactamente lo que el libro propone, quedarme pegada mirando cómo hierve el agua, mientras reflexiono    sobre la vida.
+   
+(Esto es del capitulo 7 pero me gusto mucho esta parte)
+
+-----------------------------------------------------
 
 El libro es una invitación a encontrar el arte y la introspección en las acciones más cotidianas, demostrando que la poesía visual y conceptual ya es parte de nuestra vida,de nuestra rutina, igual encuentro que algunas partes del libro son muy fuertes de hacer o muy extremistas, y otras me podrucen gracia, no haria algunas cosas que diceel libro, pero otras me gustarias intertarlas. 
